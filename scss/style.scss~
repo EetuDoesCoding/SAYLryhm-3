@@ -1,50 +1,18 @@
 @import '../node_modules/foundation-sites/scss/foundation';
 @include foundation-everything;
 
-$font-stack:      Helvetica, Arial, sans-serif;
-$primary-color:   #333;
-$secondary-color: #666;
-$alert-color:     #F00;
-$nav-bgcolor: 		#DE162B;
-$nav-hlcolor: 		#0052A5;
-
+$font-stack: Helvetica, Arial, sans-serif;
+$nav-bgcolor: #DE162B;
+$nav-hlcolor: #0052A5;
+$white: #FFFFFF;
 
 body {
-   font:          100% $font-stack;
-   color:         $primary-color;
+   font: 100% $font-stack;
 }
 
-h1 {
-   font:          130% $font-stack;
-   color:         $secondary-color;
-}
+nav {
 
-h1.alert {
-   font:          130% $font-stack;
-   color:         $alert-color;
-}
-
-h2 {
-   font:          120% $font-stack;
-   color:         $secondary-color;
-}
-
-h2.alert {
-   font:          120% $font-stack;
-   color:         $alert-color;
-}
-
-h3 {
-   font:          110% $font-stack;
-   color:         $secondary-color;
-}
-
-h3.alert {
-   font:          110% $font-stack;
-   color:         $alert-color;
-}
-
-	ul {
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -64,7 +32,16 @@ li a {
     text-decoration: none;
 }
 
-
 li a:hover {
     background-color: $nav-hlcolor;
 }
+
+}
+
+header {
+ h1, p {
+ text-align: center;
+ color: $nav-bgcolor;
+ }
+ 
+ }

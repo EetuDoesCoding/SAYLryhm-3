@@ -3932,28 +3932,24 @@ a.thumbnail {
   clear: both; }
 
 body {
-  font: 100% Helvetica, Arial, sans-serif;
-  color: #1779ba; }
+  font: 100% Helvetica, Arial, sans-serif; }
 
-ul {
+nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #DE162B; }
-
-li {
+nav li {
   float: left; }
-
-li a {
+nav li a {
   display: block;
-  color: #FFFFFF;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none; }
-
-li a:hover {
-  background-color: #0052A5; }
+nav li a:hover {
+  color: #0052A5; }
 
 header h1, header p {
   text-align: center;

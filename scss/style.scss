@@ -1,17 +1,18 @@
 @import '../node_modules/foundation-sites/scss/foundation';
 @include foundation-everything;
 
-$font-stack:      Helvetica, Arial, sans-serif;
-$nav-bgcolor: 		#DE162B;
-$nav-hlcolor: 		#0052A5;
-$white:				#FFFFFF;
+$font-stack: Helvetica, Arial, sans-serif;
+$nav-bgcolor: #DE162B;
+$nav-hlcolor: #0052A5;
+$white: #FFFFFF;
 
 body {
-   font:          100% $font-stack;
-   color:         $primary-color;
+   font: 100% $font-stack;
 }
 
-	ul {
+nav {
+
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -25,15 +26,18 @@ li {
 
 li a {
     display: block;
-    color: $white;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 li a:hover {
-    background-color: $nav-hlcolor;
+    color: $nav-hlcolor;
 }
+
+}
+
 header {
  h1, p {
  text-align: center;
