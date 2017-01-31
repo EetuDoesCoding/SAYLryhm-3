@@ -1,0 +1,25 @@
+
+*** These modified files were found in JOE when it aborted on Tue Jan 31 11:20:26 2017
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+d
+
+*** File '(Unnamed)'
+etusivu.php
+style.scss
+style.scss
+reset.scss
+bq
+base.
+base.scss
+foundation.scss
+style.css
+style.scss
+etusivu.php
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
