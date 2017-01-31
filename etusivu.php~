@@ -2,9 +2,8 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title><?php $_SERVER['PHP_SELF'] ?></title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/foundation/6.2.4/foundaiton.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/foundation-icons/3.0/foundaiton-icons.min.css">
+  <title>SAYL</title>
+  
   <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 
@@ -17,21 +16,21 @@
 
 <nav>
 <ul>
-<li><a href="">Etusivu</li>
-<li><a href="">Me</li>
-<li><a href="">Jäsenyys</li>
-<li><a href="">Aktiviteetit</li>
-<li><a href="">Matkailu</li>
-<li><a href="">Julkaisut</li>
-<li><a href="">FAQ</li>
-<li><a href="">Kumppanit</li>
-<li><a href="">Yhteystiedot</li>
-<li><a href="">Intranet</li>
+<li><a href="">Etusivu</a></li>
+<li><a href="">Me</a></li>
+<li><a href="">Jäsenyys</a></li>
+<li><a href="">Aktiviteetit</a></li>
+<li><a href="">Matkailu</a></li>
+<li><a href="">Julkaisut</a></li>
+<li><a href="">FAQ</a></li>
+<li><a href="">Kumppanit</a></li>
+<li><a href="">Yhteystiedot</a></li>
+<li><a href="">Intranet</a></li>
 </ul>
 </nav>
 
 <article>
-
+<h2>Testi</h2>
 </article>
 
 <footer>
