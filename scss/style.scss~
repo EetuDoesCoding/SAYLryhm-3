@@ -1,0 +1,70 @@
+@import '../node_modules/foundation-sites/scss/foundation';
+@include foundation-everything;
+
+$font-stack:      Helvetica, Arial, sans-serif;
+$primary-color:   #333;
+$secondary-color: #666;
+$alert-color:     #F00;
+$nav-bgcolor: 		#DE162B;
+$nav-hlcolor: 		#0052A5;
+
+
+body {
+   font:          100% $font-stack;
+   color:         $primary-color;
+}
+
+h1 {
+   font:          130% $font-stack;
+   color:         $secondary-color;
+}
+
+h1.alert {
+   font:          130% $font-stack;
+   color:         $alert-color;
+}
+
+h2 {
+   font:          120% $font-stack;
+   color:         $secondary-color;
+}
+
+h2.alert {
+   font:          120% $font-stack;
+   color:         $alert-color;
+}
+
+h3 {
+   font:          110% $font-stack;
+   color:         $secondary-color;
+}
+
+h3.alert {
+   font:          110% $font-stack;
+   color:         $alert-color;
+}
+
+	ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: $nav-bgcolor;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: $nav-hlcolor;
+}
