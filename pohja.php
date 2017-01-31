@@ -25,7 +25,7 @@
 <li><a href="">FAQ</a></li>
 <li><a href="">Kumppanit</a></li>
 <li><a href="">Yhteystiedot</a></li>
-<li><a href="">Intranet</a></li>
+<li><a href="http://sayl.fi/intranet/">Intranet</a></li>
 <li><a href=""><img src="usakuva.jpg" alt=""></a></li>
 </ul>
 </nav>
