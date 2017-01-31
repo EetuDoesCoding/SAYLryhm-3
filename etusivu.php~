@@ -11,11 +11,23 @@
 <body>
 
 <header>
-
+<h1>SAYL</h1>
+<p>Suomi-Amerikka Yhdistysten Liitto</p>
 </header>
 
 <nav>
-
+<ul>
+<li><a href="">Etusivu</li>
+<li><a href="">Me</li>
+<li><a href="">Jäsenyys</li>
+<li><a href="">Aktiviteetit</li>
+<li><a href="">Matkailu</li>
+<li><a href="">Julkaisut</li>
+<li><a href="">FAQ</li>
+<li><a href="">Kumppanit</li>
+<li><a href="">Yhteystiedot</li>
+<li><a href="">Intranet</li>
+</ul>
 </nav>
 
 <article>
