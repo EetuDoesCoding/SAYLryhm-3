@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title><?php $_SERVER['PHP_SELF'] ?></title>
+  <title>SAYL</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/foundation/6.2.4/foundaiton.min.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/foundation-icons/3.0/foundaiton-icons.min.css">
   <link rel="stylesheet" type="text/css" href="css/style.css">
