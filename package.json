@@ -1,0 +1,24 @@
+{
+  "name": "saylryhm-3",
+  "version": "1.0.0",
+  "description": "Kpedu 2016 15DAT - Ryhmä 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EetuDoesCoding/SAYLryhm-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EetuDoesCoding/SAYLryhm-3/issues"
+  },
+  "homepage": "https://github.com/EetuDoesCoding/SAYLryhm-3#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "foundation-sites": "^6.3.0",
+    "jquery": "^3.1.1"
+  }
+}
