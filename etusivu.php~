@@ -43,8 +43,8 @@ Work & Travel-kesätyöohjelman hakuaika loppuu myös tiistaina 31.1.2017. Emme 
 Jos olet tuomassa hakemusta toimistoomme Helsingin Etelärannassa, varmistathan puhelinsoitolla etukäteen, että olemme varmasti paikalla.  Puh. 040-522 9288 / Kirsi Rutonen. </dd>
 <dt>MATKAMESSUILLA TORSTAISTA SUNNUNTAIHIN</dt>
 <dd>Olemme esittelemässä SAYL:n toimintaa Matkamessuilla Helsingin Messukeskuksessa torstaista sunnuntaihin (19.-22.1.2017). Löydät meiltä osastolta 7ay16-17.</dd>
-<dt></dt>
-<dd></dd>
+<dt>SAT SUBJECT-TESTI 21.1.2017</dt>
+<dd>Tammikuun SAT Subject-testi on tällä hetkellä täynnä. Teemme parhaamme, että saisimme vielä muutaman lisäpaikan ennen kuin testin ilmoittautumisaika umpeutuu (ke 21.12.2016).  </dd>
 </dl>
 </article>
 

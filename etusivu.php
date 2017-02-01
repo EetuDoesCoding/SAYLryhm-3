@@ -29,7 +29,7 @@
 <li><a href=""><img src="usakuva.jpg" alt=""></a></li>
 </ul>
 </nav>
-
+<br><br>
 <article>
 <div class="container">
 <div class="small-12 medium-4 columns" style="overflow-y:auto;">
@@ -46,6 +46,17 @@ Jos olet tuomassa hakemusta toimistoomme Helsingin Etelärannassa, varmistathan 
 <dt>SAT SUBJECT-TESTI 21.1.2017</dt>
 <dd>Tammikuun SAT Subject-testi on tällä hetkellä täynnä. Teemme parhaamme, että saisimme vielä muutaman lisäpaikan ennen kuin testin ilmoittautumisaika umpeutuu (ke 21.12.2016).  </dd>
 </dl>
+</div>
+</div>
+<div class="container">
+<div class="small-12 medium-8 columns">
+<img src="ryhma.jpg" alt="">
+</div>
+<div class="small-12 medium-8 columns">
+<p>SAYL kutsuu toimintaansa mukaan jokaisen, jota kiinnostaa Yhdysvallat, sen rikas kulttuuri ja kiehtova elämänmuoto. Tarjoamme toimintaa, tapaamisia, taidetta, tiedettä ja tietoa kaikenikäisille – tarjolla on kansainvälistymiskasvatusta parhaimmillaan. Tule mukaan!</p>
+</div>
+</div>
+
 </article>
 
 <footer>
