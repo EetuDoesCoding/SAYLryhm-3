@@ -33,7 +33,7 @@ li a {
 }
 
 li a:hover {
-    background-color: $nav-hlcolor;
+    color: $nav-hlcolor;
 }
 
 }
