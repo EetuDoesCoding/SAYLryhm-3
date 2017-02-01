@@ -1,0 +1,25 @@
+
+*** These modified files were found in JOE when it aborted on Tue Jan 31 13:38:41 2017
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+d
+
+*** File '(Unnamed)'
+/home/eetueloranta/public_html/SAYL/SAYLryhm-3/.git/MERGE_MSG
+etusivu.php
+etusivu.php
+pohja.php
+pohja.php
+etusivu.php
+etusivu.php
+etusivu.php
+etusivu.php
+style.scss
+style.css
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
