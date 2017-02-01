@@ -31,7 +31,21 @@
 </nav>
 
 <article>
-<h2>Testi</h2>
+<div class="container">
+<div class="small-12 medium-4 columns" style="overflow-y:auto;">
+<h4>Ajankohtaista</h4>
+<dl>
+<dt>APURAHOJEN JA KESÄTYÖOHJELMAN HAKUAIKA PÄÄTTYY 31.1.2017</dt>
+<dd>SAYL:n hallinnoimien jatko-opintoihin ja tutkimustyöhön amerikkalaisissa yliopistoissa tarkoitettujen apurahojen hakuaika umpeutuu tiistaina 31.1.2017. Emme ota vastaan hakemuksia tai liitteitä spostitse. Lisätietoja, www.sayl.fi/apurahat
+
+Work & Travel-kesätyöohjelman hakuaika loppuu myös tiistaina 31.1.2017. Emme ota vastaan hakemuksia tai liitteitä spostitse. Lisätietoja, http://sayl.fi/kesatyo-yhdysvalloissa/  
+
+Jos olet tuomassa hakemusta toimistoomme Helsingin Etelärannassa, varmistathan puhelinsoitolla etukäteen, että olemme varmasti paikalla.  Puh. 040-522 9288 / Kirsi Rutonen. </dd>
+<dt>MATKAMESSUILLA TORSTAISTA SUNNUNTAIHIN</dt>
+<dd>Olemme esittelemässä SAYL:n toimintaa Matkamessuilla Helsingin Messukeskuksessa torstaista sunnuntaihin (19.-22.1.2017). Löydät meiltä osastolta 7ay16-17.</dd>
+<dt></dt>
+<dd></dd>
+</dl>
 </article>
 
 <footer>
