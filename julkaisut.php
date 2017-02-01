@@ -25,7 +25,7 @@
   <li><a href="FAQ.php">FAQ</a></li>
   <li><a href="kumppanit.php">Kumppanit</a></li>
   <li><a href="yhteystiedot.php">Yhteystiedot</a></li>
-  <li><a href="intranet.php">Intranet</a></li>
+  <li><a href="http://sayl.fi/intranet/">Intranet</a></li>
   <li><a href="english.php"><img src="usakuva.jpg" alt="English"></a></li>
  </ul>
 </nav>
