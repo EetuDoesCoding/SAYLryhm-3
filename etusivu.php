@@ -16,14 +16,14 @@
 
 <nav>
 <ul>
-<li><a href="">Etusivu</a></li>
+<li><a href="etusivu.php">Etusivu</a></li>
 <li><a href="">Me</a></li>
 <li><a href="">Jäsenyys</a></li>
 <li><a href="">Aktiviteetit</a></li>
-<li><a href="">Matkailu</a></li>
-<li><a href="">Julkaisut</a></li>
+<li><a href="matkailu.php">Matkailu</a></li>
+<li><a href="julkaisut.php">Julkaisut</a></li>
 <li><a href="">FAQ</a></li>
-<li><a href="">Kumppanit</a></li>
+<li><a href="kumppanit.php">Kumppanit</a></li>
 <li><a href="">Yhteystiedot</a></li>
 <li><a href="http://sayl.fi/intranet/">Intranet</a></li>
 <li><a href=""><img src="usakuva.jpg" alt=""></a></li>
